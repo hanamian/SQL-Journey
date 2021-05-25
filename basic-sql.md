@@ -1,4 +1,4 @@
-# Basic
+# Basic SQL
 ### 1. LIKE
 ```sql
 select name 
